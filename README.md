@@ -1,2 +1,3 @@
 # Youtubeview_prediction
-Nothingggg
+Starting YouTube Views Predictor server...
+Open http://127.0.0.1:8000 in your browser.
